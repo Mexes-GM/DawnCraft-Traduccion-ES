@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:stone",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "¿Quieres aprender a usar el cortador de piedras? ¡Sólo serán 10 esmeraldas!"
+    }
+  }
+}

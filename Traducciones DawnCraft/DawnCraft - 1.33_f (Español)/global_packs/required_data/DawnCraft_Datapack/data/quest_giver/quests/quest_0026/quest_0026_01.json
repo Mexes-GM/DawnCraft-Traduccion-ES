@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "¿Sabías que...?"
+    },
+    "description": {
+      "text": "¿Lo sabías? Hay caras nuevas en la dimensión. Se rumorea que estos hombres llevan armaduras fabulosas y espadas irrompibles. He tenido la oportunidad de ver el diseño de algunas de sus armaduras... Son Hermosas, pero no prácticas. Un martillo decente puede romperla con facilidad, ¡jaja!"
+    }
+  }
+}

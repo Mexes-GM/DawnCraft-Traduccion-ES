@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 13,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "Ayuda!"
+    },
+    "description": {
+      "text": "He oído hablar bien de su trabajo. Necesito que reúna algunos bienes exóticos, específicamente: $(red)pieles de león$(). Necesito 4 de esas. Vuelve cuando tengas la mercancía."
+    }
+  }
+}

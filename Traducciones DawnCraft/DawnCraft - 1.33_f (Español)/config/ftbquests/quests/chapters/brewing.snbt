@@ -1,0 +1,85 @@
+{
+	id: "0AAD6825AAAC8DAF"
+	group: ""
+	order_index: 9
+	filename: "brewing"
+	title: "Elaboración de pociones"
+	icon: "ars_nouveau:potion_flask"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Elaboración de pociones"
+			x: 0.0d
+			y: 0.0d
+			description: ["En su mayor parte, la elaboración de pociones funciona igual que en el Minecraft original. Sin embargo, hay muchas más pociones disponibles, que puedes ver a través de JEI. Además, los jugadores pueden crear amuletos de poción para recibir poderosos efectos de poción durante más tiempo del habitual, y estos efectos pueden incluso hacerse permanentes mediante infusión."]
+			size: 2.0d
+			id: "4424AAAF4D8A945E"
+			tasks: [{
+				id: "5B174619510F5A0D"
+				type: "item"
+				item: "minecraft:brewing_stand"
+			}]
+			rewards: [{
+				id: "599741D31C4BF152"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
+		}
+		{
+			title: "Amuletos de poción"
+			icon: {
+				id: "apotheosis:potion_charm"
+				Count: 1b
+				tag: {
+					Damage: 0
+					Potion: "minecraft:leaping"
+				}
+			}
+			x: 2.0d
+			y: 0.0d
+			description: [
+				"Los jugadores pueden combinar varias pociones con Polvo de Blaze para crear amuletos de poción. Se puede hacer clic con el botón derecho del ratón para activarlos o desactivarlos, y proporcionarán al jugador el efecto de la poción mientras esté activa en el inventario del jugador o en la ranura del amuleto. Estos amuletos pueden ser encantados con Irrompibilidad o Reparacion para extender su duración."
+				""
+				"&b&lAmuletos irrompibles"
+				"Los amuletos se pueden infundir mediante una tabla de encantamiento para convertirlos en su versión irrompible. Los amuletos irrompibles tienen efectos permanentes, pero se pueden activar y desactivar. Infundir un amuleto requiere el máximo de Eterna, entre 8,5% y 13,5% de Quanta, y entre 85% y 95% de Arcana. Consulta la pestaña \"Encantamiento"\ para más información sobre Infusiones."
+			]
+			dependencies: ["4424AAAF4D8A945E"]
+			size: 1.5d
+			id: "50A3AF120AA6375A"
+			tasks: [{
+				id: "4E2A1D32B612F8EC"
+				type: "checkmark"
+				title: "Read"
+			}]
+			rewards: [{
+				id: "3CC09383FD379788"
+				type: "xp"
+				auto: "enabled"
+				xp: 10
+			}]
+		}
+		{
+			title: "Tarros de pociones, fundidores y frascos"
+			icon: "ars_nouveau:potion_jar"
+			x: 0.0d
+			y: -2.0d
+			description: ["Los jugadores pueden fabricar frascos de pociones para almacenar grandes cantidades de un tipo de poción, un fundidor de pociones para combinar los efectos de las pociones y frascos de pociones para almacenar más dosis de poción en un solo frasco, así como aumentar la potencia o prolongar la duración. Consulta la pestaña de búsqueda \"Magia"\ para obtener más información sobre estos dispositivos y objetos."]
+			dependencies: ["4424AAAF4D8A945E"]
+			size: 1.5d
+			id: "5238E383D811ED28"
+			tasks: [{
+				id: "1B1BBC8DD3E22900"
+				type: "checkmark"
+				title: "Read"
+			}]
+			rewards: [{
+				id: "3EFB277FCE02CC46"
+				type: "xp"
+				auto: "enabled"
+				xp: 10
+			}]
+		}
+	]
+	quest_links: [ ]
+}

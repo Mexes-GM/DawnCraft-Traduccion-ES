@@ -1,0 +1,52 @@
+{
+  "parent": "quest_giver:quest_0014_04",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Camino rumbo a los ojos"
+    },
+    "description": {
+      "text": "Tenemos muy poca información sobre el Caballero Rober en su estado actual, pero debe estar bastante debilitado desde la última guerra... Oh, recuerda traer perlas Ender. Tiene un desagradable ataque del que sólo se puede escapar mediante teletransporte."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Camino rumbo a los ojos"
+    },
+    "description": {
+      "text": "Wow, has derrotado a Caballero Rober huh. ¿Era duro? Antes era uno de los oponentes más temibles a los que podías enfrentarte en un duelo, supongo que su edad le alcanzó finalmente. Bueno, el siguiente poseedor del ojo es otro humano. Actualmente vive pacíficamente en su granja... Aquí está el mapa de su ubicación."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:rogue_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:guildmaster3",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add crafting level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add engineering level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only simple_mobs:knight_rober_quest_complete",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster5 true",
+      "id": "quest_giver:command"
+    }    
+  ]
+}

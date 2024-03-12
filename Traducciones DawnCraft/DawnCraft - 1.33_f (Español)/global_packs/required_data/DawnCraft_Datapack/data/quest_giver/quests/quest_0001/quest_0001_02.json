@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0001_02b",
+  "reputation": 5,
+  "icon": "minecraft:iron_helmet",
+  "start": {
+    "title": {
+      "text": "¡Hola de nuevo!"
+    },
+    "description": {
+      "text": "¡Hola otra vez! ¿Ya me has traído el papel? Quiero dibujarte el mapa."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Aquí."
+    },
+    "description": {
+      "text": "Aquí. Hay una casa infestada por esos cazadores enfermos e ilusos... Uno de mis buenos amigos ha localizado su ubicación y la ha marcado en este mapa. Estoy seguro de que han estado almacenando el botín que obtuvieron de sus enemigos... Mátalos y consigue su botín. Si puedes, busca un collar que me han robado. Les gusta esconder cosas debajo de la mesa. A ver si lo encuentras, ¡haré todo lo posible por recompensarte si me trajeras ese collar!"
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+     }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:armorer1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p armorer1 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}

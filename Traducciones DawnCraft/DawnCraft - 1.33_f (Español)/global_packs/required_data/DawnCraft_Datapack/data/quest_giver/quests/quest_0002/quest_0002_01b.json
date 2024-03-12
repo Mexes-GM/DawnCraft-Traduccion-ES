@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "A Favor"
+    },
+    "description": {
+      "text": "¡Buen hombre! Hace tiempo que nuestros cazadores no cazan aunque sea un conejo... Le agradecería que me dejara alguna pata$(red)de conejo$(), si tiene alguna claro esta"
+    }
+  }
+}

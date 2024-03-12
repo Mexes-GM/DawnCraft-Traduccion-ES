@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 14,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "Solicitud de búsqueda"
+    },
+    "description": {
+      "text": "¿Podría ayudarme a recuperar 4 sacos de tinta de calamar?"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Aprender a utilizar la tabla cartográfica"
+    },
+    "description": {
+      "text": "Oh... hm, de acuerdo. Dame 15 esmeraldas y te enseñaré a usarla."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Aquí tienes."
+    },
+    "description": {
+      "text": "No te dejes intimidar por los equipos que hay sobre la mesa, ¡ya le tomaras el truco!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 15
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add sailing level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

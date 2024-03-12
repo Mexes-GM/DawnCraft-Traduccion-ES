@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0014_08",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "El fin del camino"
+    },
+    "description": {
+      "text": "El gigante de fuego había desaparecido de nuestro reino hacía muchas lunas. Pudimos extraer un nudo de su pelo antes de que se fuera. Los grandes clérigos encantaron magia en el objeto, lo que teóricamente debería permitirte invocar al gigante si ofreces el objeto en el altar. Si alguna vez pierdes el nudo de pelo, combina una carga de fuego con una poción básica de resistencia al fuego en un puesto de elaboración de cerveza para volver a invocar el objeto."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "El fin del camino"
+    },
+    "description": {
+      "text": "Bueno, estoy sin palabras... Has derrotado a todos los portadores de ojos. Si ya tienes 12 ojos, busca la entrada al Fin. Que tu Dios te bendiga"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:corrupted_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:village @p 10",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "simple_mobs:giant_knot"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}
