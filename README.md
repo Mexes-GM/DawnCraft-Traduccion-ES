@@ -2,6 +2,8 @@
 
 Version actual de ModPack: 2.0.1 (BETA)
 
+Si encuentra algun error gramatical, textos sin traducir o textos sin coherencia no dude en hacermelo saber por la seccion de [Issues](https://github.com/Mexes-GM/DawnCraft-Traduccion-ES/issues)
+
 ## [Traducido]
 ### Version: 1.33_f
  - Misiones FTBQuests: 12/13
