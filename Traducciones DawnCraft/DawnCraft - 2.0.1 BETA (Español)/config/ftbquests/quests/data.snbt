@@ -1,6 +1,6 @@
 {
 	version: 13
-	title: "&2DawnCraft &aV:2.0_Beta&f║&e[ES]&7 By &4MexesGM"
+	title: "&2DawnCraft &aV:2.0.1_Beta&f║&e[ES]&7 By &4MexesGM"
 	default_reward_team: false
 	default_consume_items: false
 	default_autoclaim_rewards: "disabled"
