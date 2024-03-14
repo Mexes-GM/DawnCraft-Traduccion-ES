@@ -1,0 +1,18 @@
+{
+	"class.dawncraft.brawler" : "Luchador",
+	"class.dawncraft.astrologer" : "Astrólogo",
+	"class.dawncraft.ronin" : "Ronin",
+	"class.dawncraft.warrior" : "Guerrero",
+	"class.dawncraft.berserker" : "Berserker",
+	"class.dawncraft.tank" : "Tanque",
+	"class.dawncraft.lancer" : "Lancero",
+	"class.dawncraft.roamer" : "Errante",
+	"class.dawncraft.brawler.desc" : "Los Luchadores tienen una salud muy por encima del promedio y una resistencia promedio, lo que los hace formidables en combate cuerpo a cuerpo con una fuerza duradera.",
+	"class.dawncraft.astrologer.desc" : "Los Astrólogos, con poca salud y resistencia por debajo del promedio, su fortaleza radica en el poderoso Ender Step para movimientos estratégicos, complementado por un libro de hechizos básico para lanzar magia.",
+	"class.dawncraft.ronin.desc" : "Con poca salud y resistencia promedio, los Ronin son ágiles guerreros que empuñan katanas, entregando golpes precisos mientras evitan hábilmente el daño.",
+	"class.dawncraft.warrior.desc" : "Campeones formidables con una resistencia y salud por encima del promedio, lo que los convierte en una fuerza equilibrada en el campo de batalla.",
+	"class.dawncraft.berserker.desc" : "Ferocidad implacable equilibrada con una salud promedio y una resistencia por encima del promedio. Los Berserkers destacan en batallas prolongadas con habilidades especiales diseñadas para el combate prolongado.",
+	"class.dawncraft.tank.desc" : "La clase Tanque se define por su alta salud y resistencia por debajo del promedio, construida para resistir asaltos implacables. Con una habilidad única de resistencia a los aturdimientos, los Tanques son protectores inflexibles en el campo de batalla.",
+	"class.dawncraft.lancer.desc" : "Los Lanceros, con salud y resistencia promedio, demuestran precisión y agilidad. Sobresalen en explotar los puntos débiles del enemigo y utilizan una esquiva rápida para maniobras de combate ágiles.",
+	"class.dawncraft.roamer.desc" : "Armados con un arco y flechas, los Errantes abrazan la agilidad, presentando una salud por debajo del promedio y una resistencia alta."
+}
