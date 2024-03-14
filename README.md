@@ -21,5 +21,5 @@ Si encuentra algun error gramatical, textos sin traducir o textos sin coherencia
    2. Copiar y pegar las carpetas "Config" y "global_packs" en la carpeta raiz del ModPack
       - Debe sobrescribir los archivos ya existentes
       - Ejemplo ubicacion de modpack en Curseforge (C:\Users\NombredeUsuario\curseforge\minecraft\Instances\DawnCraft - Echoes of Legends)
-      - Es Importante que coloques el juego en Español (España) para que se apliquen algunas traducciones
+      - Es Importante que coloque el juego en Español (España) para que se apliquen algunas traducciones
    3. Listo! Ya tiene su ModPack traduccido al Español
