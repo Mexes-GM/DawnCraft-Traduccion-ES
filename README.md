@@ -14,6 +14,7 @@ Si encuentra algun error gramatical, textos sin traducir o textos sin coherencia
 ### Version: 2.0.1 (BETA)
   - Misiones FTBQuests: 11/12
   - Misiones Aldeanos: 158/158
+  - Clases de DawnCraft: 1/1
 ## [Instalacion]
  - Tutorial en Video: (Proximamente)
  - Tutorial Escrito:
