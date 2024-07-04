@@ -1,6 +1,6 @@
 # DawnCraft ModPack Traduccion Español
 
-Version actual de ModPack: 2.0.1 (BETA)
+Version actual de ModPack: 2.0.11
 
 Si encuentra algun error gramatical, textos sin traducir o textos sin coherencia no dude en hacermelo saber por la seccion de [Issues](https://github.com/Mexes-GM/DawnCraft-Traduccion-ES/issues)
 
