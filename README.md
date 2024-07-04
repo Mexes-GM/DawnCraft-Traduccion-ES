@@ -15,6 +15,10 @@ Si encuentra algun error gramatical, textos sin traducir o textos sin coherencia
   - Misiones FTBQuests: 11/12
   - Misiones Aldeanos: 158/158
   - Clases de DawnCraft: 1/1
+### Version: 2.0.11
+  - Misiones FTBQuests: 13/13
+  - Misiones Aldeanos: 161/161
+  - Clases de DawnCraft: 1/1
 ## [Instalacion]
  - Tutorial en Video: (Proximamente)
  - Tutorial Escrito:
