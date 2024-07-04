@@ -1,6 +1,6 @@
 # DawnCraft ModPack Traduccion Español
 
-Version actual de ModPack: 2.0.1 (BETA)
+Version actual de ModPack: 2.0.11
 
 Si encuentra algun error gramatical, textos sin traducir o textos sin coherencia no dude en hacermelo saber por la seccion de [Issues](https://github.com/Mexes-GM/DawnCraft-Traduccion-ES/issues)
 
@@ -14,6 +14,10 @@ Si encuentra algun error gramatical, textos sin traducir o textos sin coherencia
 ### Version: 2.0.1 (BETA)
   - Misiones FTBQuests: 11/12
   - Misiones Aldeanos: 158/158
+  - Clases de DawnCraft: 1/1
+### Version: 2.0.11
+  - Misiones FTBQuests: 13/13
+  - Misiones Aldeanos: 161/161
   - Clases de DawnCraft: 1/1
 ## [Instalacion]
  - Tutorial en Video: (Proximamente)
