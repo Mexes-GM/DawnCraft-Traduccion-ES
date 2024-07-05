@@ -1,0 +1,291 @@
+{
+	"itemGroup.dawncraft.DungeonBlocks": "Bloques de Mazmorra de DawnCraft",
+	"itemGroup.dawncraft.DungeonFunctionalBlocks": "Bloques Funcionales de Mazmorra",
+	"itemGroup.dawncraft.DungeonItems": "Artículos de DawnCraft",
+
+	"block.dawncraft.forest_brick": "Ladrillo del Bosque",
+	"block.dawncraft.forest_brick_stairs": "Escaleras de Ladrillo del Bosque",
+	"block.dawncraft.forest_brick_slab": "Losa de Ladrillo del Bosque",
+	"block.dawncraft.forest_brick_wall": "Muro de Ladrillo del Bosque",
+	
+	"block.dawncraft.fire_brick": "Ladrillo de Fuego",
+	"block.dawncraft.fire_brick_stairs": "Escaleras de Ladrillo de Fuego",
+	"block.dawncraft.fire_brick_slab": "Losa de Ladrillo de Fuego",
+	"block.dawncraft.fire_brick_wall": "Muro de Ladrillo de Fuego",
+	
+	"block.dawncraft.coral": "Coral",
+	"block.dawncraft.coral_stairs": "Escaleras de Coral",
+	"block.dawncraft.coral_slab": "Losa de Coral",
+	"block.dawncraft.coral_wall": "Muro de Coral",
+	
+	"block.dawncraft.magma_slate": "Pizarra de Magma",
+	"block.dawncraft.magma_slate_stairs": "Escaleras de Pizarra de Magma",
+	"block.dawncraft.magma_slate_slab": "Losa de Pizarra de Magma",
+	"block.dawncraft.magma_slate_wall": "Muro de Pizarra de Magma",
+	
+	"block.dawncraft.moss_brick": "Ladrillo de Musgo",
+	"block.dawncraft.moss_brick_stairs": "Escaleras de Ladrillo de Musgo",
+	"block.dawncraft.moss_brick_slab": "Losa de Ladrillo de Musgo",
+	"block.dawncraft.moss_brick_wall": "Muro de Ladrillo de Musgo",
+	
+	"block.dawncraft.mud_brick": "Ladrillo de Barro",
+	"block.dawncraft.mud_brick_stairs": "Escaleras de Ladrillo de Barro",
+	"block.dawncraft.mud_brick_slab": "Losa de Ladrillo de Barro",
+	"block.dawncraft.mud_brick_wall": "Muro de Ladrillo de Barro",
+	
+	"block.dawncraft.rock": "Roca",
+	"block.dawncraft.rock_stairs": "Escaleras de Roca",
+	"block.dawncraft.rock_slab": "Losa de Roca",
+	"block.dawncraft.rock_wall": "Muro de Roca",
+	
+	"block.dawncraft.sand_brick": "Ladrillo de Arena",
+	"block.dawncraft.sand_brick_stairs": "Escaleras de Ladrillo de Arena",
+	"block.dawncraft.sand_brick_slab": "Losa de Ladrillo de Arena",
+	"block.dawncraft.sand_brick_wall": "Muro de Ladrillo de Arena",
+	
+	"block.dawncraft.sand_slate": "Pizarra de Arena",
+	"block.dawncraft.sand_slate_stairs": "Escaleras de Pizarra de Arena",
+	"block.dawncraft.sand_slate_slab": "Losa de Pizarra de Arena",
+	"block.dawncraft.sand_slate_wall": "Muro de Pizarra de Arena",
+	
+	"block.dawncraft.shadow_brick": "Ladrillo de Sombra",
+	"block.dawncraft.shadow_brick_stairs": "Escaleras de Ladrillo de Sombra",
+	"block.dawncraft.shadow_brick_slab": "Losa de Ladrillo de Sombra",
+	"block.dawncraft.shadow_brick_wall": "Muro de Ladrillo de Sombra",
+	
+	"block.dawncraft.water_brick": "Ladrillo de Agua",
+	"block.dawncraft.water_brick_stairs": "Escaleras de Ladrillo de Agua",
+	"block.dawncraft.water_brick_slab": "Losa de Ladrillo de Agua",
+	"block.dawncraft.water_brick_wall": "Muro de Ladrillo de Agua",
+	
+	"block.dawncraft.moss_slate": "Pizarra de Musgo",
+	"block.dawncraft.moss_slate_stairs": "Escaleras de Pizarra de Musgo",
+	"block.dawncraft.moss_slate_slab": "Losa de Pizarra de Musgo",
+	"block.dawncraft.moss_slate_wall": "Muro de Pizarra de Musgo",
+	
+	"block.dawncraft.fire_door": "Puerta de Mazmorra de Fuego",
+	"block.dawncraft.rust_door": "Puerta de Mazmorra de Óxido",
+	"block.dawncraft.sand_door": "Puerta de Mazmorra de Arena",
+	"block.dawncraft.stone_door": "Puerta de Mazmorra de Piedra",
+	"block.dawncraft.wood_door": "Puerta de Mazmorra de Madera",
+	
+	"block.dawncraft.chest_spawner": "Generador de Cofres",
+	"block.dawncraft.redstone_activator": "Activador de Redstone",
+	"block.dawncraft.redstone_trigger": "Detonador de Redstone",
+	
+	"item.dawncraft.red_key": "Llave Roja",
+	"item.dawncraft.green_key": "Llave Verde",
+	"item.dawncraft.blue_key": "Llave Azul",
+	"item.dawncraft.yellow_key": "Llave Amarilla",
+	"item.dawncraft.orange_key": "Llave Naranja",
+	"item.dawncraft.purple_key": "Llave Púrpura",
+	"item.dawncraft.silver_key": "Llave Plateada",
+	
+	"item.dawncraft.red_lock": "Cerradura Roja",
+	"item.dawncraft.green_lock": "Cerradura Verde",
+	"item.dawncraft.blue_lock": "Cerradura Azul",
+	"item.dawncraft.yellow_lock": "Cerradura Amarilla",
+	"item.dawncraft.orange_lock": "Cerradura Naranja",
+	"item.dawncraft.purple_lock": "Cerradura Púrpura",
+	"item.dawncraft.silver_lock": "Cerradura Plateada",
+	
+	"item.dawncraft.dungeon_configurator": "Configurador de Mazmorra",
+	"item.dawncraft.skeleton_key": "Llave Maestra",
+	"item.dawncraft.cursed_mask": "Máscara de Athora",
+	"item.dawncraft.rebirth_staff": "Bastón de Renacimiento",
+	"item.dawncraft.executioner": "El Verdugo",
+	"item.dawncraft.slayers_blade": "Hoja del Asesino",
+	"item.dawncraft.crystallized_xp": "Experiencia Cristalizada",
+	
+	"map.dawncraft.cultist": "Mapa Sospechoso",
+	"map.dawncraft.cultist.lore": "Un mapa entregado por un aventurero caído para localizar una iglesia.",
+	"map.dawncraft.cultist_2": "Mapa del Cultista",
+	"map.dawncraft.cultist_2.lore": "Paradero del Padre Gascoigne.",
+	
+	"waypoint.dawncraft.cultist": "La Prisión del Cultista",
+	"waypoint.dawncraft.cultist_2": "Iglesia del Padre",
+	
+	"entity.dawncraft.fallen": "Aventurero Caído",
+	"entity.dawncraft.quest_player": "Aventurero",
+	
+	"message.dawncraft.invasions_enabled_0": "Se han detectado varios anacronismos, prepárate para una invasión inminente...",
+	"message.dawncraft.invasions_enabled_1": "Primera invasión en %1$s segundos.",
+	"message.dawncraft.invasion": "Estás siendo invadido por %1$s",
+	"message.dawncraft.spawn_npc": "NPC %1$s generado con éxito en %2$s",
+	"message.dawncraft.animal": "Animales interactuados: %1$s/10",
+	
+	"message.dawncraft.singlepulse": "Cambiado a modo de un solo pulso",
+	"message.dawncraft.toggle": "Cambiado a modo de alternar",
+	"message.dawncraft.creative_required": "Debes estar en modo creativo para usar este artículo.",
+	
+	"message.dawncraft.select_functional_block": "Bloque funcional seleccionado %1$s",
+	"message.dawncraft.link_triggerable_block": "Bloque funcional vinculado %1$s al disparador %2$s",
+	"message.dawncraft.unlink_triggerable_block": "Bloque funcional desvinculado %1$s del disparador %2$s",
+	"message.dawncraft.reset_functional_block": "Bloque funcional reiniciado %1$s",
+	"message.dawncraft.no_mode": "ADVERTENCIA: no se ha establecido funcionalidad para el modo de configuración %1$s",
+	
+	"message.dawncraft.waypoint": "Añadido punto de referencia al mapa para %1$s",
+	
+	"configuratormode.dawncraft.link_functional": "Modo: Vincular Bloques Funcionales",
+	"configuratormode.dawncraft.unlink_functional": "Modo: Desvincular Bloques Funcionales",
+	"configuratormode.dawncraft.reset_functional": "Modo: Reiniciar Bloques Funcionales",
+	"configuratormode.dawncraft.rotate": "Modo: Rotar Bloques",
+	
+	"tooltip.dawncraft.configuratormode": "Shift clic derecho para cambiar modos",
+	"tooltip.dawncraft.configuratormode.link_functional": "Clic derecho para vincular un bloque funcional, clic derecho nuevamente para vincularlo a un disparador",
+	"tooltip.dawncraft.configuratormode.unlink_functional": "Clic derecho para desvincular un bloque funcional, clic derecho nuevamente para desvincularlo de un disparador",
+	"tooltip.dawncraft.configuratormode.reset_functional": "Clic derecho en un bloque funcional de un solo uso para reiniciarlo",
+	"tooltip.dawncraft.configuratormode.rotate": "Clic derecho para rotar un bloque",
+	
+	"tooltip.dawncraft.chest_spawner": "Genera un cofre con los artículos contenidos cuando se activa un bloque vinculado.",
+	"tooltip.dawncraft.redstone_activator": "Emite una señal de redstone cuando se activa un bloque vinculado.",
+	"tooltip.dawncraft.redstone_trigger": "Activa bloques vinculados cuando recibe una señal de redstone.",
+	
+	"tooltip.dawncraft.key_0": "Clic derecho para abrir un %1$s",
+	"tooltip.dawncraft.key_1": "Se consume al usar",
+	
+	"tooltip.dawncraft.lock": "Clic derecho en una Puerta de Mazmorra para añadir la cerradura",
+	
+	"tooltip.dawncraft.skeleton_key_0": "Clic derecho para abrir cualquier puerta bloqueada.",
+	"tooltip.dawncraft.skeleton_key_1": "No se consume al usar",
+	
+	"tooltip.dawncraft.cursed_mask_0": "Una máscara que se creía un regalo de la Bestia Legendaria de Athora",
+	"tooltip.dawncraft.cursed_mask_1": "Al usarla, algunos monstruos te ignorarán a menos que sean provocados",
+	
+	"tooltip.dawncraft.mask": "Puede ser valiosa para ciertos coleccionistas de máscaras",
+	
+	"tooltip.dawncraft.rebirth_staff.inert_0": "Inerte",
+	"tooltip.dawncraft.rebirth_staff.inert_1": "Este bastón no tiene poder, es inútil",
+	"tooltip.dawncraft.rebirth_staff.powered_0": "Potenciado",
+	"tooltip.dawncraft.rebirth_staff.powered_1": "Este bastón mágico tiene el poder de restaurar reinos",
+	
+	"tooltip.dawncraft.slayers_blade_0": "El arma elegida del gremio de cazadores de monstruos",
+	"tooltip.dawncraft.slayers_blade_1": "Inflige un 10% de daño de la salud total de un mob",
+	
+	"tooltip.dawncraft.executioner_0": "La poderosa espada de un rey legendario",
+	"tooltip.dawncraft.executioner_1": "Mata instantáneamente a mobs con menos del 15% de salud",
+	
+	"tooltip.dawncraft.crystallized_xp_0": "Contiene %1$s de experiencia",
+	"tooltip.dawncraft.crystallized_xp_1": "Desaparece si no se usa antes de morir",
+	
+	"tile.dawncraft.chest_spawner": "Generador de Cofres",
+	
+	"effect.dawncraft.immobilized": "Inmovilizado",
+	"effect.dawncraft.tremor": "Temblor",
+	"effect.dawncraft.frogform": "Forma de Rana",
+	"effect.dawncraft.fractured_soul": "Alma Fracturada",
+	
+	"text.dawncraft.quest.no_text": "Texto faltante para la misión. %1$s",
+	"text.dawncraft.quest.lorem_ipsum": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus pharetra imperdiet. Vivamus porttitor magna eget lobortis faucibus. Pellentesque et dignissim dolor. Quisque congue pharetra nibh non consequat. Maecenas risus nisi, cursus in sem ut, pulvinar commodo nisi. Nam at euismod eros, sagittis mollis sem. Etiam vitae nibh sapien. Maecenas non magna neque. Pellentesque aliquet erat ac dolor interdum rutrum. Nullam volutpat tellus erat, ac fermentum velit auctor in. Ut non est semper, volutpat ex in, semper justo. Praesent pellentesque quam a sapien interdum faucibus. Nulla eu diam ac ligula pulvinar rhoncus. Morbi pellentesque aliquet efficitur. Mauris eleifend luctus finibus. Morbi eu iaculis turpis. Duis mauris ex, condimentum tincidunt diam ac, facilisis sodales libero. Donec sagittis mauris ligula, at porttitor dolor bibendum eget. Duis ut finibus justo, nec consequat orci. Morbi ornare suscipit mattis. Suspendisse quis mauris odio. Pellentesque tempor non lorem accumsan tincidunt. Vestibulum ultricies ex at metus laoreet interdum. Nullam ornare ultricies metus in condimentum. Nulla sit amet nisl vehicula, dignissim dolor vitae, malesuada leo. Quisque id accumsan libero.",
+	
+	"text.dawncraft.quest.intro": "¡Saludos, compañero! Finalmente estás despierto. Bienvenido a nuestro mundo. Debes estar confundido sobre cómo llegaste aquí y con quién estás hablando, ¿no? En cualquier caso, comenzaré mi disquisición, como lo hago con cada aventurero convocado aquí. Fuiste llamado aquí para derrotar al dragón del End. Bestias legendarias como gigantes, hombres lobo e incluso otros dragones comenzaron a aparecer hace dos inviernos, causando estragos y perturbando el equilibrio de nuestro reino. Nuestros ancianos nos dijeron que el dragón del End ha sido corrompido por una deidad malévola, y que tanto el dragón como la deidad deben ser destruidos para restaurar la paz en nuestro reino. Por lo tanto, solicitamos tu ayuda, valiente aventurero. Obtén al menos 12 ojos místicos, úsalos para localizar y abrir la puerta hacia el End. Algunos de estos ojos pueden ser fabricados... pero la mayoría están en manos de entidades poderosas. No sabemos quiénes son ni dónde están estas entidades, pero los habitantes nativos podrían tener una pista. Busca a sus maestros de gremio, son los más sabios en estos asuntos. Necesitarás volverte más fuerte, mucho más fuerte. Los habitantes nativos también pueden enseñarte diferentes habilidades de combate, si los tratas bien al menos. Como regla general, no los ataques ni les robes. No son olvidadizos, pero sí perdonan si expías tus pecados a través de su cofre de contabilidad. Además, toma este orbe espiritual. Recolecta 4 para mejorar tu salud o resistencia. Si alguna vez ves a alguien como yo, interactúa con ellos y demuestra tu destreza e intelecto, seguramente te darán algo a cambio. Si alguna vez olvidas esta información, un aventurero me dijo una vez que lo anotó en un lugar llamado 'Wiki'. Dijo que un aventurero experimentado sabrá qué significa. Te deseo lo mejor en tu viaje, mi dulce. Espera obstáculos difíciles y bloqueos en el camino, pero recuerda que solo te harán más fuerte. Que Dios esté contigo.",
+	
+	"text.dawncraft.quest.werewolf1": "¿Has venido a cazarme, compañero aventurero? Sí, soy el temido hombre lobo del que hablan... Mátame con tu espada si te atreves. Espero no transformarme antes de que termines, jaja. O mejor aún, ¿podrías traerme una manzana dorada? Me han dicho que solo una manzana dorada puede curar mi maldición, ¿podrías conseguir una para mí? Lo haría yo mismo, pero no estoy en condiciones de recolectar recursos.",
+    "text.dawncraft.quest.werewolf2": "¿Ya encontraste una manzana dorada? ¿O has venido a ejecutarme?",
+    "text.dawncraft.quest.werewolf3": "Gracias aventurero, ya me siento mejor... Espera... Algo no está bien... Eso no es lo que me dijeron... Bueno, parece que es adiós para ti.",
+	
+	"text.dawncraft.quest.ghost1": "Buen día para ti, señor. Siempre es un placer conocer a otro aventurero, aunque ahora soy mucho menos compañero. Lamentablemente, como puedes ver, estoy muerto, pero una vez más deseo explorar este mundo y ayudar a quienes lo necesiten. Si puedes traerme 6 hierros, puedo forjar una campana mágica y vincularme a ella. Podré caminar por este mundo una vez más para ayudarte en tus misiones, si lo necesitas.",
+	"text.dawncraft.quest.ghost2": "¡Saludos nuevamente! Solo necesitas traerme unos simples 6 hierros y podré ayudarte en tu búsqueda.",
+	"text.dawncraft.quest.ghost3": "¡Oh, estupendo! Has traído los hierros... Realmente echaba de menos la emoción de una buena aventura... Dame un momento, no he hecho esto antes... No, eso no va allí... ¡Ajá, lo tengo! Hmm, parece que solo necesitaba un momento para enfriarse...",
+	
+	"text.dawncraft.quest.cult1": "Oh, hey, viajero... ¿Buscas algo?",
+	"text.dawncraft.quest.cult1b": "Oh, supongo que los aldeanos te enviaron aquí, ¿verdad? Bueno, entonces, tráeme un trozo de papel. Te diré dónde encontrar al cultista.",
+	"text.dawncraft.quest.cult2": "¿Tienes ese papel para que pueda dibujarte un mapa?",
+	"text.dawncraft.quest.cult3": "Aquí lo tienes. Cuídate, amigo mío.",
+	"text.dawncraft.quest.cult4": "¿Has logrado rastrear al cultista?",
+	"text.dawncraft.quest.cult5": "¿Así que conseguiste al cultista, eh? Escuché que los miembros de la iglesia lo estaban interrogando sobre el paradero actual de Padre Gascoigne, pero parece que lo escondió en su máscara todo el tiempo, jaja... Aquí, encuéntralo y acábalo con su sufrimiento.",
+
+	"text.dawncraft.quest.barrel1": "¡Por los dioses, GRACIAS! Este hombre de arriba me atrapó en este barril reforzado... Si no fuera por ti, probablemente habría muerto de asfixia allí. Debo vengarme, pero soy demasiado débil para enfrentarlo solo... ¿Podrías echarme una mano?",
+	"text.dawncraft.quest.barrel2": "Debo vengarme del hombre de arriba... ¿Podrías echarme una mano?",
+	
+	"text.dawncraft.quest.alchemist": "Hola aventurero, ¿buscas información sobre pociones especiales? ¡Solo dame una esmeralda y te contaré todo al respecto!",
+	"text.dawncraft.quest.alchemist.bloodthirst.title": "Sed de Sangre",
+	"text.dawncraft.quest.alchemist.bloodthirst.text": "Ah, la poción de sed de sangre. Esta poción te permite regenerar salud golpeando a tus enemigos. Ten en cuenta que necesitas usar una espada o un hacha para activar el efecto. ¡También es más fácil activarlo cuando usas armas con un alto rendimiento de daño! En cuanto a la receta de elaboración... Bueno, necesitarás colmillo de vampiro para las versiones inferiores. El corazón de vampiro se puede usar para elaborar un nivel superior de esta poción.",
+	"text.dawncraft.quest.alchemist.withering.title": "Marchitamiento",
+	"text.dawncraft.quest.alchemist.withering.text": "Hmm... Esta es bastante directa. Beberla te da la capacidad de marchitar a tu enemigo con tus ataques. ¡Es más fácil activarlo cuando usas armas con un alto rendimiento de daño! En cuanto a la receta de elaboración... Déjame pensar... Ah, sí, Huesos Marchitos. Creo que puedes conseguirlos del Demonio Marchito o los Semidemonios. Cosas desagradables de pelear, eso sí...",
+	"text.dawncraft.quest.alchemist.endurance.title": "Resistencia",
+	"text.dawncraft.quest.alchemist.endurance.text": "¡Ah-ha! La poción MÁS útil para un aventurero, diría yo. Beber esto te da un impulso temporal en la resistencia al combate, permitiéndote realizar más esquivas/bloqueos antes de quedarte sin resistencia. En cuanto a la receta de elaboración, necesitarás Fragmentos de Cueva. Puedes obtenerlos matando Cabezas de Bloque de Cueva y Golems de Cueva.",
+
+	"text.dawncraft.quest.mask_ghost1": "¿Podrías ayudarme con algo? Eres un aventurero, ¿verdad?¶Como puedes ver, soy solo un espectro en este mundo, ligado a esta máscara legendaria de mi hogar.¶Concede protección a quien la lleva, lo cual normalmente sería bueno, pero un demonio ha hecho de esta máscara su hogar y su magia corrupta ahora me mantiene atado a este plano mortal, mucho después de mi muerte... Si puedes traerme 4 máscaras únicas, quizás podamos aplacarlo y yo pueda ser libre para pasar al más allá. Haz esto y podrás quedarte con esta máscara; su hechizo original de protección debería seguir intacto después de que el demonio sea desterrado.",
+	"text.dawncraft.quest.mask_ghost2": "¿Has logrado traer las máscaras?",
+	"text.dawncraft.quest.mask_ghost3": "Oh, de verdad lo lograste...¶Debo darte mis mayores gracias, con esto el demonio debería estar saciado y quizás pueda pasar al otro lado.¶Adiós, aventurero...",
+	
+	"text.dawncraft.quest.witch1": "¡Tú ahí! ¿Podrías echarme una mano?¶Si logras ayudarme, tu premio será grandioso.¶Sin completar mi ritual, el mundo podría estar en peligro.¶Para ayudarme, necesitarás algunos ingredientes:¶Ala de murciélago, Piel de árbol,¶Ojo de insecto, Cera de abeja,¶Una pata de liebre,¶Mechones de piel de oso,¶Y finalmente una gema completamente verde.",
+	"text.dawncraft.quest.witch2": "¿Me trajiste mi lista?¶Ala de murciélago, Piel de árbol,¶Ojo de insecto, Cera de abeja,¶Una pata de liebre,¶Mechones de piel de oso,¶Y finalmente una gema completamente verde.",
+	"text.dawncraft.quest.witch3": "Ahora para desterrar al liche...¶Solo una gota de mi sangre, como bruja.¶Así que debo despedirme de ti...¶Estos te serán más útiles que a mí.",
+	
+	"text.dawncraft.quest.king1": "¡Oh, ay de mí! Solía gobernar el mundo, pero ahora no tengo nada, mi reino ha caído y mi familia ya no existe.¶Pero tú, ¿eres un aventurero, verdad?¶Quizás puedas ayudarme...¶Solo hay una cosa que puede restaurar mi reino a su antigua gloria... ¡Un Bastón del Renacimiento!¶Si te aventuras en las profundidades del Nether y consigues el corazón de un buitre de las almas, podré hacer uno.¬He oído que los buitres de las almas se encuentran en los Valles de Arena de Almas.",
+	"text.dawncraft.quest.king2": "¿Ya has encontrado el Corazón de Alma?¬He oído que los buitres de las almas se encuentran en los Valles de Arena de Almas.",
+	"text.dawncraft.quest.king3": "Oh, gracias, lo has traído. Desafortunadamente, no tengo habilidades mágicas, así que no puedo terminar de hacer el bastón.¶Pero siento un gran poder en ti, deberías ser capaz de darle poder a este bastón.¶Sigue mis instrucciones y podrás darle poder a este bastón.¶Primero, necesitas una mesa de encantamientos.¬Luego coloca un Pedestal en cada una de las 4 direcciones desde ella, con un espacio de 2 bloques.¬Finalmente, coloca un poco de polvo de blaze sobre cada uno de los pedestales y usa el bastón inerte en la mesa de encantamientos.",
+	"text.dawncraft.quest.king4": "Primero, necesitas una mesa de encantamientos.¬Luego coloca un Pedestal en cada una de las 4 direcciones desde ella, con un espacio de 2 bloques.¬Finalmente, coloca un poco de polvo de blaze sobre cada uno de los pedestales y usa el bastón inerte en la mesa de encantamientos.",
+	"text.dawncraft.quest.king5": "¡Lo has logrado!¶Con esto podré restaurar mi reino sin duda alguna.¶Toma mi Espada Real, debería serte útil.¬Dudo que la necesite, ahora que tengo el poder del bastón.",
+
+	"text.dawncraft.quest.monster_slayer1": "¡Eh, tú, aventurero!¶Soy un miembro de alto rango del gremio de cazadores de monstruos. Estamos buscando nuevos miembros y tú pareces fuerte y capaz.¶¿Estarías interesado en unirte a nosotros?",
+	"text.dawncraft.quest.monster_slayer1b": "¡Esa es una noticia fantástica! Por supuesto que te daremos nuestro equipo oficial...¶Pero primero debes completar algunas tareas para nosotros. Te pagaremos por cada tarea completada y no debes preocuparte, no tomaré tus objetos, solo necesito verlos para comprobar que la tarea está completa.¶Tu primera tarea debería ser simple para alguien como tú. Tráeme uno de lo siguiente: Un fragmento de un Guardián, la vara de un Blaze, el cráneo de un Kobold, la escama de un Imp o la carne de un Minotauro.",
+	"text.dawncraft.quest.monster_slayer2": "Para tu primera tarea, ¿puedes mostrarme uno de lo siguiente: Un fragmento de un Guardián, la vara de un Blaze, el cráneo de un Kobold, la escama de un Imp o la carne de un Minotauro?",
+	"text.dawncraft.quest.monster_slayer3": "Bien hecho, ahora para la siguiente tarea, ¿podrías mostrarme uno de lo siguiente: El corazón de un Vampiro, un Fragmento de un Cabeza de Bloque de Cueva, el Tótem de un Evocador o el cráneo de un Esqueleto con Wither?",
+	"text.dawncraft.quest.monster_slayer4": "Para tu próxima tarea, ¿podrías mostrarme uno de lo siguiente: El corazón de un Vampiro, un Fragmento de un Cabeza de Bloque de Cueva, el Tótem de un Evocador o el cráneo de un Esqueleto con Wither?",
+	"text.dawncraft.quest.monster_slayer5": "Mis mayores felicitaciones para ti, no muchos llegan hasta aquí.¶Tu prueba final puede resultar la más difícil, pero te consagrará como un verdadero cazador de monstruos, ¡digno del gremio!¶Para completar tu prueba final, muéstrame uno de lo siguiente: La estrella de un Wither, el corazón de un Dragón, un fragmento de un Golem de Cueva, la Máscara de Barakoa, el Hacha de un Ferrous Wroughtnaught o la gema de un Marciano.",
+	"text.dawncraft.quest.monster_slayer6": "Para completar tu prueba final, muéstrame uno de lo siguiente: La estrella de un Wither, el corazón de un Dragón, un fragmento de un Golem de Cueva, la Máscara de Barakoa, el Hacha de un Ferrous Wroughtnaught o la gema de un Marciano.",
+	"text.dawncraft.quest.monster_slayer7": "Es fantástico ver eso, sabía que estaba en lo correcto al confiar en ti.¶Adelante, toma estas recompensas, ¡te las mereces!",
+
+	"text.dawncraft.quest.sage1": "Hola, aventurero, ¿podrías ayudarme?¶Estoy escribiendo un trabajo sobre la vida silvestre de este mundo justo, pero me dan bastante miedo algunos de ellos.¶¿Podrías interactuar con 10 animales diferentes y contarme tus observaciones? Te daré mi llave mágica como recompensa.",
+	"text.dawncraft.quest.sage2": "¿Ya has interactuado con 10 animales?",
+	"text.dawncraft.quest.sage3": "Hmm, curioso, nunca hubiera pensado que se comportarían así...¶Muchísimas gracias por esta información, será muy útil para mi trabajo...¶Oh, y casi lo olvido, toma esto, podría ayudarte en... lo que sea que hagas...",
+
+	"text.dawncraft.quest.sorcerer1": "Um, hola, ¿eres un aventurero, verdad?¬¿Podrías ayudarme con algo?¶Verás, estoy entrenando para ser aprendiz de hechicero y accidentalmente rompí mi bastón...¶Sé cómo repararlo, pero no encuentro el material que necesito...¶Si puedes traerme un fragmento de prismarino, puedo darte una esfera espiritual a cambio.",
+	"text.dawncraft.quest.sorcerer2": "¿Has logrado encontrar un fragmento de prismarino?",
+	"text.dawncraft.quest.sorcerer3": "Oh, muchas gracias...¶Con esto debería poder reparar mi bastón como nuevo.¶Aquí, como prometí, toma esta esfera espiritual. No me será realmente útil, pero podría ayudarte en tu búsqueda.",
+
+	"text.dawncraft.next": ">>",
+	"text.dawncraft.back": "Atrás",
+	"text.dawncraft.close": "Cerrar",
+	"text.dawncraft.acknowledge1": "Entendido",
+	"text.dawncraft.acknowledge2": "Claro",
+	"text.dawncraft.acknowledge3": "¡De acuerdo!",
+	"text.dawncraft.acknowledge4": "¡Bien!",
+	"text.dawncraft.acknowledge5": "¡Gracias!",
+	"text.dawncraft.deny1": "Todavía no...",
+	"text.dawncraft.deny2": "Estoy trabajando en ello",
+	"text.dawncraft.deny3": "Lo siento, no",
+	"text.dawncraft.deny4": "No",
+	"text.dawncraft.accept1": "¡Lo haré!",
+	"text.dawncraft.accept2": "Claro",
+	"text.dawncraft.accept3": "¡De acuerdo!",
+	"text.dawncraft.accept4": "¡Bien!",
+	"text.dawncraft.accept5": "¡Acepto!",
+	"text.dawncraft.decline1": "Quizás más tarde.",
+	"text.dawncraft.decline2": "Estoy ocupado",
+	"text.dawncraft.decline3": "No, lo siento.",
+	"text.dawncraft.decline4": "Ahora no",
+	"text.dawncraft.decline5": "¡Declino!",
+	
+	"advancements.adventure.kill_a_creeper.title": "Aww man",
+	"advancements.adventure.kill_a_creeper.description": "Mata a un creeper",
+	"advancements.adventure.fallenkingdom.title": "Solía gobernar el mundo",
+	"advancements.adventure.fallenkingdom.description": "Ayuda a un rey a restaurar su reino.",
+	"advancements.end.root.title": "Encuentra las piezas",
+	"advancements.end.root.description": "Entra en el end...",
+	"advancements.story.enter_the_end.title": "Encuentra las piezas",
+	"advancements.story.enter_the_end.description": "Vuelve a armar el rompecabezas...",
+	
+	"toasts.dawncraft.combatmode.title": "Presiona \"%1$s\" para cambiar al modo de combate",
+	"toasts.dawncraft.combatmode.text0": "El daño cuerpo a cuerpo infligido fuera del",
+	"toasts.dawncraft.combatmode.text1": "modo de combate se reduce a la mitad.",
+	
+	"toasts.dawncraft.dodge.title": "Presiona \"%1$s\" para Esquivar",
+	"toasts.dawncraft.dodge.text0": "Esquivar solo funciona en modo de combate",
+	"toasts.dawncraft.dodge.text1": "",
+	
+	"toasts.dawncraft.skills.title": "Libro de habilidades adquirido",
+	"toasts.dawncraft.skills.text0": "Presiona \"%1$s\" para verificar tus habilidades",
+	"toasts.dawncraft.skills.text1": "",
+	
+	"toasts.dawncraft.map.title": "Verifica tus puntos de ruta en el mapa",
+	"toasts.dawncraft.map.text0": "Presiona \"%1$s\" para abrir el",
+	"toasts.dawncraft.map.text1": "mapa del mundo",
+	
+	"toasts.dawncraft.stealing.title": "¡No robes!",
+	"toasts.dawncraft.stealing.text0": "La reputación de la aldea se reduce si te",
+	"toasts.dawncraft.stealing.text1": "atrapan robando"
+}
