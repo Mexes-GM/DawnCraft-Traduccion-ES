@@ -20,7 +20,6 @@ Si encuentra algun error gramatical, textos sin traducir o textos sin coherencia
   - Misiones Aldeanos: 161/161
   - Clases de DawnCraft: 1/1
 ## [Instalacion]
- - Tutorial en Video: (Proximamente)
  - Tutorial Escrito:
    1. Descargar la version deseada y descomprimir el archivo
    2. Copiar y pegar las carpetas "Config" y "global_packs" en la carpeta raiz del ModPack
